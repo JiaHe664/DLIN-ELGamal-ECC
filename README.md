@@ -24,7 +24,7 @@ elgamal-ecc public key encryption scheme based on dlin assumption
 
 ## 运行样例
 
-![image-20220528161040730](C:\Users\Win10\AppData\Roaming\Typora\typora-user-images\image-20220528161040730.png)
+![](.\imgs\run_example.png)
 
 ## 致谢
 

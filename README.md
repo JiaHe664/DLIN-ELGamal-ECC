@@ -24,7 +24,7 @@ elgamal-ecc public key encryption scheme based on dlin assumption
 
 ## 运行样例
 
-![](.\imgs\run_example.png)
+![](./imgs/run_example.png)
 
 ## 致谢
 
